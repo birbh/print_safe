@@ -1,8 +1,8 @@
-## print_safe
+# print_safe
 Print safe is a smart biometric storage system designed for students and teachers to securely store their personal belongings.
 This project combines fingerprint based access controls,breach detection and activity logging which helps in preventing the unauthorized access.
 
-# What is this project??
+## What is this project??
 Print safe is an intelligent locker system that allows only authorized person to access stored items using their fingerprint.
 
 Unlike basic locks; it doesnt just opens or closes it but::
@@ -12,7 +12,7 @@ Unlike basic locks; it doesnt just opens or closes it but::
 
 This thing makes it suitable for places like schools,hostels and even a shared living spaces.
 
-# How do you use it? 
+## How do you use it? 
 1. first user places finger on the sensor
 2. the system then scans and compares fingerprint with a stored data
 3. if fingerprint matches; 
@@ -29,7 +29,7 @@ This thing makes it suitable for places like schools,hostels and even a shared l
 6. all activities are recorded for monitoring.
 
 
-# Story behind this:
+## Story behind this:
 
 - Why am i making this? 
 I lived in my school's hostel in my school life. The main problem of hostel life was that my belongings never stayed in my place. Someone always came to my place and misplace my personal belongings, which would frustate me and I used to be very angry as:
@@ -48,18 +48,18 @@ The idea actually came from my own room at home. One day while i was sitting in 
 
 **print_safe** is my attempt to bring these ideas to life, solving real world problem I personally faced.
 
-# why this and why is it unique?
+## why this and why is it unique?
 - its not just a lock but decision based security system
 - combines verification + intrusion + logging
 - designed for real world student problems
 
-# where can it be used ??
+## where can it be used ??
 - hostel lockers
 - school storage system
 - personal drawers and cabinets
 - shared living spaces
 
-# Components required(planned):
+## Components required(planned):
 
 - arduino uno or nano
 - AS608 finferprint sensor
