@@ -68,3 +68,8 @@ The idea actually came from my own room at home. One day while i was sitting in 
 - Buzzer (alerts)
 - resistors and wiring
 - aluminium foil (tamper detection)
+
+
+
+
+
