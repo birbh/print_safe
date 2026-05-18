@@ -62,6 +62,11 @@ The idea actually came from my own room at home. One day while i was sitting in 
 - personal drawers and cabinets
 - shared living spaces
 
+## CAD:
+<img width="777" height="581" alt="Screenshot 2026-05-18 at 3 55 42 PM" src="https://github.com/user-attachments/assets/51cdbec7-775d-4732-9777-3da56444da0f" />
+<img width="735" height="649" alt="Screenshot 2026-05-18 at 3 56 14 PM" src="https://github.com/user-attachments/assets/82066022-4a11-45aa-a771-0e0a8e584d13" />
+<img width="840" height="627" alt="Screenshot 2026-05-18 at 3 56 57 PM" src="https://github.com/user-attachments/assets/b4a2e382-11dd-45cd-bc53-f95e467d3019" />
+
 ## Components required(planned):
 
 - arduino uno or nano
@@ -70,6 +75,7 @@ The idea actually came from my own room at home. One day while i was sitting in 
 - leds(status indicators)
 - Buzzer (alerts)
 - resistors and wiring
+
 - aluminium foil (tamper detection)
 
 
