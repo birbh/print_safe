@@ -76,7 +76,8 @@ void setup(){
     // servos
     servoup.attach(servoupPin);
     servodown.attach(servodownPin);
-//
+    lockdoor();
+
 
     //oled
     if(!display.begin(SSD1306_SWITCHCAPVCC, 0x3C)) 

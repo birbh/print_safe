@@ -16,20 +16,49 @@ Unlike basic locks; it doesnt just opens or closes it but::
 This thing makes it suitable for places like schools,hostels and even a shared living spaces.
 
 ## How do you use it? 
-1. first user places finger on the sensor
-2. the system then scans and compares fingerprint with a stored data
-3. if fingerprint matches; 
-    - access is granted, 
-    - servo unlocks storage, 
-    - led indicates success 
-    - logs the successful access attempt
-4. But if the fingerprint doesnt match; 
-    - access is denied 
-    - failed attempt is recorded.
-5. then if multiple failed attempts i.e tampering is detected:
-    - Buzzer alert is triggered
-    - system enters a temporary lock state
-6. all activities are recorded for monitoring.
+
+1. For Daily Use:
+    - Place your registered finger on the sensor:
+
+    1. If fingerprint matches:
+        - Servo rotates to unlock the storage
+        - Green LED will turn on indicating success
+        - A success beep will sound from the buzzer
+        - Oled display will show "Access Granted" along with clock
+        - The safe will automatically lock after 5 secs(initially)
+    2. If fingerprint does not match:
+        - Red LED will turn on indicating failure
+        - A failure beep will sound from the buzzer
+        - Oled display will show "Access Denied" 
+    - To lock manually:
+        - Press the green push button switch to lock the safe immediately
+        - Oled display will show "Door Locked"
+
+2. For Admin Use:
+    - To enter admin mode:
+        - Press and hold both the green and red push button switch for 5 seconds 
+        - The safe will play double beep and oled will show "Admin Mode" and then "Place finger to register"
+        1. To register a new fingerprint:
+            - Place the new finger on the sensor
+            - The system will capture first scan and prompt 'Remove finger'
+            - Lift the finger from the sensor
+        2. When screen prompts 'Place same finger again':
+            - Place the same finger again on the sensor to confirm
+        - If successfull, buzzer will play a success tone and oled will show "Fingerprint Registered"
+
+3. Security and resets:
+    - Tamper alarm:
+        - If an unregistered finger is scanned 3 times in a row, the system will trigger a tamper alarm:
+            - Buzzer will sound continuously with loud beeps
+            - Red LED will flash rapidly
+            - The biometric system will be locked to prevent further attempts
+    - To reset the system:
+        - Press the red push button which is hidden in the side of the safe
+        - This will reset the siren
+        - Clear the failed attempt count
+        - Allow users to try accessing again
+        - Again ready to scan fingerprints
+
 
 
 ## Story behind this:
