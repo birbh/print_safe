@@ -2,6 +2,9 @@
 Print safe is a smart biometric storage system designed for students and teachers to securely store their personal belongings.
 This project combines fingerprint based access controls,breach detection and activity logging which helps in preventing the unauthorized access.
 
+<img width="1587" height="2245" alt="Print Safe" src="https://github.com/user-attachments/assets/9cf2ec7c-eda1-4488-8dcb-d4821535aaf3" />
+
+
 ## What is this project??
 Print safe is an intelligent locker system that allows only authorized person to access stored items using their fingerprint.
 
