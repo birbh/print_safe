@@ -1,26 +1,29 @@
-Arduino uno with cable,~20$,https://shorturl.at/WWEXE
-AS608 Fingerprint Module,$15-20$,https://shorturl.at/U69mB
-Servo motor (x2),$8,https://shorturl.at/Ip8lg
-Leds(pack of leds),$7,https://shorturl.at/RFGpo
-Active Electronic Buzzer(pack),~$7,https://shorturl.at/qj3BP
-Resistors (10k Ω),$6,https://acesse.one/ls03mpb
-Resistors (220 Ω),$5,https://l1nk.dev/5dzzufx
-Wires(jumper),$8,https://l1nk.dev/i9meakx
-Aluminium foil(optional),$9,https://acesse.one/0dw1c65
-Soldering iron,$8,https://acesse.one/7kuzg6q
-Hot glue gun,$5,https://l1nk.dev/ufd4z0r
-Breadboard,$10,https://l1nk.dev/uzbsl38
-Push Button Switch,$3,https://l1nk.dev/vnitg2r
-18650 Battery Holder,$3,https://l1nk.dev/oosg72w
-18650 Lithium-Ion Battery,$3,https://l1nq.com/20qpqqt
-TP4056 Charging Module,$6,https://l1nk.dev/wedzzh9
-MT3608 Boost Converter,$6,https://l1nk.dev/9jh41ry
-I2C OLED Display 0.96 inch,$8,https://l1nk.dev/515rwpb
-DS3231 RTC Module,$5,https://l1nk.dev/nx8q5ky
-ESP8266 NodeMCU(optional),$7,https://l1nk.dev/9cr6knm
-M3 Screw Set,$6,https://l1nk.dev/izsoxws
-Acrylic Sheet,$9,https://acesse.one/pnp6sq5
-Mini Hinges,$4,https://l1nk.dev/g1qcra8
-Magnetic Latch,$7,https://l1nk.dev/61dy1q1
-1000μF (Polarized)(greater than 5V),$3-$7,https://www.ebay.com/itm/255390041576
-Switch (on/off),~2$,https://tinyurl.com/ycyaypbw
+Items,Price,Link,Quantity
+Arduino uno with cable,~20$,https://shorturl.at/WWEXE,1
+AS608 Fingerprint Module,$15-20$,https://shorturl.at/U69mB,1
+Servo motor,$8,https://shorturl.at/Ip8lg,2
+Leds,$7,https://shorturl.at/RFGpo,Pack
+Active Electronic Buzzer,~$7,https://shorturl.at/qj3BP,Pack
+Resistors (10k Ω),$6,https://acesse.one/ls03mpb,Pack
+Resistors (220 Ω),$5,https://l1nk.dev/5dzzufx,Pack
+Wires(jumper),$8,https://l1nk.dev/i9meakx,Pack
+Wires(Normal),~4$,https://shorturl.at/ygMDc,Pack
+Aluminium foil(optional),$9,https://acesse.one/0dw1c65,1
+Soldering iron,$8,https://acesse.one/7kuzg6q,1
+Hot glue gun,$5,https://l1nk.dev/ufd4z0r,1
+Breadboard,$10,https://l1nk.dev/uzbsl38,1
+Push Button Switch,$3,https://l1nk.dev/vnitg2r,2
+18650 Battery Holder,$3,https://l1nk.dev/oosg72w,1
+18650 Lithium-Ion Battery,$3,https://l1nq.com/20qpqqt,1
+TP4056 Charging Module,$6,https://l1nk.dev/wedzzh9,1
+MT3608 Boost Converter,$6,https://l1nk.dev/9jh41ry,1
+I2C OLED Display 0.96 inch,$8,https://l1nk.dev/515rwpb,1
+DS3231 RTC Module,$5,https://l1nk.dev/nx8q5ky,1
+ESP8266 NodeMCU(optional),$7,https://l1nk.dev/9cr6knm,1
+M3 Screw Set(optional),$6,https://l1nk.dev/izsoxws,Pack
+Acrylic Sheet(Optional),$9,https://acesse.one/pnp6sq5,1
+Mini Hinges,$4,https://l1nk.dev/g1qcra8,2
+Magnetic Latch,$7,https://l1nk.dev/61dy1q1,1
+1000μF (Polarized)(greater than 5V),$3-$7,https://www.ebay.com/itm/255390041576,1
+Switch (on/off),~2$,https://tinyurl.com/ycyaypbw,1
+Total:,~180$,,
