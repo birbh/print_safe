@@ -138,6 +138,8 @@ I made the circuit diagram for my project using tikercad. Due to absence of requ
 - ESP8266 NodeMCU(optional)
 - 1000μF (Polarized)(greater than 5V)
 - Switch (on/off)
+- Battery to DC barrel jack(for arduino)
+- Cardboard box
 
 
 
