@@ -63,19 +63,19 @@ This thing makes it suitable for places like schools,hostels and even a shared l
 
 ## Story behind this:
 
-- Why am i making this? 
+### Why am i making this? 
 I lived in my school's hostel in my school life. The main problem of hostel life was that my belongings never stayed in my place. Someone always came to my place and misplace my personal belongings, which would frustate me and I used to be very angry as:
-    - my items were not always where i left them
-    - there was no way to know who accessed them
-    - privacy was very hard to maintain
+- my items were not always where i left them
+- there was no way to know who accessed them
+- privacy was very hard to maintain
 
 To solve this problem for hostel students, I thought of creating a system to:
-    - protect belongings
-    - ensure authorized access
-    - let user know if system was tampered or not
+- protect belongings
+- ensure authorized access
+- let user know if system was tampered or not
 
 
-- How the idea came in my mind?
+### How the idea came in my mind?
 The idea actually came from my own room at home. One day while i was sitting in my bed, I thought that I don't have privacy maintained in my room. While i was sleeping i thought of keeping a fingerprint scanning device in my room's entrance that would only unlock the room if the fingerprint would match to me. I thought,'Why not make my own custom device at home buying all the parts from the market🤔'. But I never made it 😭.
 
 **print_safe** is my attempt to bring these ideas to life, solving real world problem I personally faced.
