@@ -86,25 +86,34 @@ Printsafe is designed to be fully robust, utilizing mechanical fastners and 3d-p
 
 ### Component fastening instructions:
 1. Dev boards(Arduino,rtc,boost conv.,charging module,etc): 
+
     They are mounted to the floor of enclosure using screws through its screw mounting holes.
 2. Locking Servos:
+
     They are slid into custon 3D-printed mounting cages(as in the 3D model) and secure tightly with screws to prevent torsion during locking sequences.
 3. Enclosure Door:
+
     Attached to the main body via dual screw mechanical hinge layout.
 4. Door alignment and security:
+
     A high strength magnetic latch is alighed on the interior frame to provide tactile door retention, ensuring the door remains fixed to the frame so the servo deadbolts can smoothly engage and lock the system.
 
 ### Step by step assembly:
 1. Prepare the shell:
+
     3D print the main enclosure body and door panel using the provided 'CAD' files in the repo(recommended: PLA/PETG).
 2. Mount the core electronics:
+
     Secure the Arduino and other similar electronic componects directly into the 3Dprinted mounts given in CAD files as in Onshape.
     Similarly using the dedicated heaavy duty double sided tape of breadboards mount it into the wall as in CAD.Many breadboards already come with a peel-and-stick adhesive backing. Clean both the back of the breadboard and the wall thoroughly before applying.
 3. Install servo mounts:
+
     Screw the 3D printed servo brackets into the interior left wall as in CAD. Slide the servos into the brackets and secure them easily.
 4. Hinge and latch attachment:
+
     Screw the physical hinge to both the interior side wall and the door panel.Mount the magnetic latch components to ensure the tight, aligned seal when the door swings shut.
 5. Calibrate the lock position:
+
     Power the electronics so the servos rotate to their default locked positions, then attach the locking arms to perfectly block door path when closed.
 (NOTE: the 3d models are available in fully assembled and parts form in the repo itself. they are refecenced mostly from grabcad and other 3d model libraries.)
 
