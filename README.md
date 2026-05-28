@@ -80,6 +80,35 @@ The idea actually came from my own room at home. One day while i was sitting in 
 
 **print_safe** is my attempt to bring these ideas to life, solving real world problem I personally faced.
 
+## Project preparation instructions:
+
+Printsafe is designed to be fully robust, utilizing mechanical fastners and 3d-printed components.
+
+### Component fastening instructions:
+1. Dev boards(Arduino,rtc,boost conv.,charging module,etc): 
+    They are mounted to the floor of enclosure using screws through its screw mounting holes.
+2. Locking Servos:
+    They are slid into custon 3D-printed mounting cages(as in the 3D model) and secure tightly with screws to prevent torsion during locking sequences.
+3. Enclosure Door:
+    Attached to the main body via dual screw mechanical hinge layout.
+4. Door alignment and security:
+    A high strength magnetic latch is alighed on the interior frame to provide tactile door retention, ensuring the door remains fixed to the frame so the servo deadbolts can smoothly engage and lock the system.
+
+### Step by step assembly:
+1. Prepare the shell:
+    3D print the main enclosure body and door panel using the provided 'CAD' files in the repo(recommended: PLA/PETG).
+2. Mount the core electronics:
+    Secure the Arduino and other similar electronic componects directly into the 3Dprinted mounts given in CAD files as in Onshape.
+    Similarly using the dedicated heaavy duty double sided tape of breadboards mount it into the wall as in CAD.Many breadboards already come with a peel-and-stick adhesive backing. Clean both the back of the breadboard and the wall thoroughly before applying.
+3. Install servo mounts:
+    Screw the 3D printed servo brackets into the interior left wall as in CAD. Slide the servos into the brackets and secure them easily.
+4. Hinge and latch attachment:
+    Screw the physical hinge to both the interior side wall and the door panel.Mount the magnetic latch components to ensure the tight, aligned seal when the door swings shut.
+5. Calibrate the lock position:
+    Power the electronics so the servos rotate to their default locked positions, then attach the locking arms to perfectly block door path when closed.
+(NOTE: the 3d models are available in fully assembled and parts form in the repo itself. they are refecenced mostly from grabcad and other 3d model libraries.)
+
+
 ## why this and why is it unique?
 - its not just a lock but decision based security system
 - combines verification + intrusion + logging
@@ -99,7 +128,7 @@ The idea actually came from my own room at home. One day while i was sitting in 
 
 For those who want to see full design, here's the like to the Onshape CAD model:
 
-[Onshape Model](https://cad.onshape.com/documents/6a9e66424898c3a5d22b5a59/w/668f054415e8574befa880c0/e/ee66468a29e6d836aa232004?renderMode=0&uiState=6a0ae9338172e23688a599eb)
+[Onshape Model](https://cad.onshape.com/documents/6a9e66424898c3a5d22b5a59/w/668f054415e8574befa880c0/e/08491907242ab19b0f76189a)
 
 ## Circuit Diagram:
 I made the circuit diagram for my project using tikercad. Due to absence of required components i have used Breadboard to complete the circuit diagram and used the notes feature in tinkercad😅.
@@ -139,8 +168,7 @@ I made the circuit diagram for my project using tikercad. Due to absence of requ
 - 1000μF (Polarized)(greater than 5V)
 - Switch (on/off)
 - Battery to DC barrel jack(for arduino)
-- Cardboard box
-
+- 3D CAD models as stated above.
 
 
 
