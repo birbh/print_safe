@@ -130,9 +130,12 @@ Printsafe is designed to be fully robust, utilizing mechanical fastners and 3d-p
 - shared living spaces
 
 ## CAD:
-<img width="777" height="581" alt="Screenshot 2026-05-18 at 3 55 42 PM" src="https://github.com/user-attachments/assets/51cdbec7-775d-4732-9777-3da56444da0f" />
-<img width="735" height="649" alt="Screenshot 2026-05-18 at 3 56 14 PM" src="https://github.com/user-attachments/assets/82066022-4a11-45aa-a771-0e0a8e584d13" />
-<img width="840" height="627" alt="Screenshot 2026-05-18 at 3 56 57 PM" src="https://github.com/user-attachments/assets/b4a2e382-11dd-45cd-bc53-f95e467d3019" />
+<img width="906" height="621" alt="Screenshot 2026-05-28 at 10 41 38 PM" src="https://github.com/user-attachments/assets/623817b1-e86f-4192-96c9-de92e608676b" />
+<img width="574" height="434" alt="Screenshot_2026-05-28_at_5 22 28_PM-removebg-preview" src="https://github.com/user-attachments/assets/49e4ef9b-bb4d-4d58-a02b-1e6e49e96c5a" />
+<img width="839" height="624" alt="Screenshot 2026-05-28 at 10 45 32 PM" src="https://github.com/user-attachments/assets/424cce52-7fbf-4e7c-9578-baf0c80d444c" />
+<img width="870" height="624" alt="Screenshot 2026-05-28 at 10 47 16 PM" src="https://github.com/user-attachments/assets/7327bde4-9f53-498f-bb37-7edc9213c99e" />
+<img width="844" height="483" alt="Screenshot 2026-05-28 at 10 47 41 PM" src="https://github.com/user-attachments/assets/1523f70a-24d3-4339-916d-27264110f57a" />
+<img width="499" height="469" alt="Screenshot 2026-05-28 at 10 48 26 PM" src="https://github.com/user-attachments/assets/164011d0-d3e5-40dc-9395-31f41455383b" />
 
 
 For those who want to see full design, here's the like to the Onshape CAD model:
