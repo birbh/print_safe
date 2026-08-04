@@ -139,6 +139,23 @@ That's it!!! If you keep these challenges in mind and work for project, you'd de
 - personal drawers and cabinets
 - shared living spaces
 
+## IRL Build:
+### Pictures:
+<img width="3024" height="4032" alt="tempImageHhVQ3i" src="https://github.com/user-attachments/assets/679ac7d0-95e1-4fda-b48c-8c3792310a84" />
+<img width="3024" height="4032" alt="tempImage1bL4IE" src="https://github.com/user-attachments/assets/3fc62e49-c693-49f1-8d8a-30dd4d9ce204" />
+<img width="3024" height="4032" alt="tempImageRyGA7T" src="https://github.com/user-attachments/assets/e19e0992-8614-457a-b1be-6b6758894daa" />
+<img width="3024" height="4032" alt="tempImageo10fXb" src="https://github.com/user-attachments/assets/ad17c2fe-1fbe-4fe1-966b-43b3408a2b6a" />
+<img width="3024" height="4032" alt="tempImage0Veda7" src="https://github.com/user-attachments/assets/02d16692-3f6a-4513-ab15-03e640c7da5c" />
+<img width="4032" height="3024" alt="tempImageZshb4o" src="https://github.com/user-attachments/assets/b8d38bb1-fc13-44eb-a6fe-4f2ea89056ba" />
+<img width="4032" height="3024" alt="tempImagegbeKXF" src="https://github.com/user-attachments/assets/0e32452f-2b99-4079-9634-7fb65941eb94" />
+<img width="3024" height="4032" alt="tempImagegSR62w" src="https://github.com/user-attachments/assets/8a5633c5-937b-4931-b874-1986c7bff06e" />
+
+### Demo Video:
+Youtube: [Demo Video](https://www.youtube.com/watch?v=nzNCS3ORe8U)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nzNCS3ORe8U?si=8AotgxGoZ_Ihrlx_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## CAD:
 <img width="726" height="530" alt="Screenshot 2026-08-04 at 6 19 32 PM" src="https://github.com/user-attachments/assets/7b34b0f6-35bc-44b9-97d9-c8afb4491a52" />
 <img width="979" height="646" alt="Screenshot 2026-08-04 at 6 20 45 PM" src="https://github.com/user-attachments/assets/39362980-543b-4d38-bfd9-2a5dcdef6201" />
