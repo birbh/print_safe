@@ -117,6 +117,16 @@ Printsafe is designed to be fully robust, utilizing mechanical fastners and 3d-p
     Power the electronics so the servos rotate to their default locked positions, then attach the locking arms to perfectly block door path when closed.
 (NOTE: the 3d models are available in fully assembled and parts form in the repo itself. they are refecenced mostly from grabcad and other 3d model libraries.)
 
+### What was challenging and things to be noted??(overall)
+There were many challenges making this project. Here i am listing some important things to be noted to make this project on the basis of what i faced in irl build.
+- First, it was challenging to make this project fully eco-friendly by using only cardboards and papers. Every small to big things for the project were made from cardboard but for anyone making this I would recommend using a 3d printed case and components which would help a lot in saving time and efficiency.(I couldnt use 3d printed parts cause it takes 3-4 months and huge tax to deliver from abroad and there are not trusted 3d printing platform in my country.
+- The logic behind the door opening and closing seems easy in CAD but its a bit complicated as, in my case, servo didnt directly attach to the door so I was forced to use a cardboard extension which attaches to servo head and the door too. But doing this made the cardboard extension move left and right along the door when the servo started to work. So to tackle this I applied the hot glue to the other end of extension and attached it to door and instantly turned and run the device 4 to 5 times which made the glue flexible and the problem was somehow solved but i found that the door dosnt fully close due to the flexible glue. so for this prototype version this issue was not solves and i managed to close it with my hand for the remaining part which then would attach to the magnets inside and holds the door in fixed position. Hence, the 3d printed fixed parts could have solved it.
+- Also keep in mind that you dont join the boost converter in opposite direction as it would burn the internal components and you'll have to buy a new one as i did.
+- Make sure the batteries are connected in parallel as i. did which would provide a good balanced voltage to the boost converter. 
+- This time when i tried to attach the oled, fingerprint sensor and leds to the cardboard door, they were so heavy for the cardboard to handle so i had to change the whole design if my door only letting the oled display attach to the door while moving.
+- Last challenge was to provide the essential torque to the door through servos to overcome the magnetic forse between the magnets attached to the end of the door and inner wall of door. So to match the torque of servos I taped the magnet's outer parts and then attached to the door which eventually reduced the magnetic force between the magnets and it was easier for servos to overcome the force. So i recommend using more powerful servos than the standard blue SG90 servos.
+
+That's it!!! If you keep these challenges in mind and work for project, you'd definitely make this project easily in most efficient way.
 
 ## why this and why is it unique?
 - its not just a lock but decision based security system
@@ -129,13 +139,35 @@ Printsafe is designed to be fully robust, utilizing mechanical fastners and 3d-p
 - personal drawers and cabinets
 - shared living spaces
 
+## IRL Build:
+### Pictures:
+<img width="3024" height="4032" alt="tempImageHhVQ3i" src="https://github.com/user-attachments/assets/679ac7d0-95e1-4fda-b48c-8c3792310a84" />
+<img width="3024" height="4032" alt="tempImage1bL4IE" src="https://github.com/user-attachments/assets/3fc62e49-c693-49f1-8d8a-30dd4d9ce204" />
+<img width="3024" height="4032" alt="tempImageRyGA7T" src="https://github.com/user-attachments/assets/e19e0992-8614-457a-b1be-6b6758894daa" />
+<img width="3024" height="4032" alt="tempImageo10fXb" src="https://github.com/user-attachments/assets/ad17c2fe-1fbe-4fe1-966b-43b3408a2b6a" />
+<img width="3024" height="4032" alt="tempImage0Veda7" src="https://github.com/user-attachments/assets/02d16692-3f6a-4513-ab15-03e640c7da5c" />
+<img width="4032" height="3024" alt="tempImageZshb4o" src="https://github.com/user-attachments/assets/b8d38bb1-fc13-44eb-a6fe-4f2ea89056ba" />
+<img width="4032" height="3024" alt="tempImagegbeKXF" src="https://github.com/user-attachments/assets/0e32452f-2b99-4079-9634-7fb65941eb94" />
+<img width="3024" height="4032" alt="tempImagegSR62w" src="https://github.com/user-attachments/assets/8a5633c5-937b-4931-b874-1986c7bff06e" />
+
+### Demo Video:
+Youtube: [Demo Video](https://www.youtube.com/watch?v=nzNCS3ORe8U)
+
+
+
+
+
+
 ## CAD:
-<img width="906" height="621" alt="Screenshot 2026-05-28 at 10 41 38 PM" src="https://github.com/user-attachments/assets/623817b1-e86f-4192-96c9-de92e608676b" />
-<img width="574" height="434" alt="Screenshot_2026-05-28_at_5 22 28_PM-removebg-preview" src="https://github.com/user-attachments/assets/49e4ef9b-bb4d-4d58-a02b-1e6e49e96c5a" />
-<img width="839" height="624" alt="Screenshot 2026-05-28 at 10 45 32 PM" src="https://github.com/user-attachments/assets/424cce52-7fbf-4e7c-9578-baf0c80d444c" />
-<img width="870" height="624" alt="Screenshot 2026-05-28 at 10 47 16 PM" src="https://github.com/user-attachments/assets/7327bde4-9f53-498f-bb37-7edc9213c99e" />
-<img width="844" height="483" alt="Screenshot 2026-05-28 at 10 47 41 PM" src="https://github.com/user-attachments/assets/1523f70a-24d3-4339-916d-27264110f57a" />
-<img width="499" height="469" alt="Screenshot 2026-05-28 at 10 48 26 PM" src="https://github.com/user-attachments/assets/164011d0-d3e5-40dc-9395-31f41455383b" />
+<img width="726" height="530" alt="Screenshot 2026-08-04 at 6 19 32 PM" src="https://github.com/user-attachments/assets/7b34b0f6-35bc-44b9-97d9-c8afb4491a52" />
+<img width="979" height="646" alt="Screenshot 2026-08-04 at 6 20 45 PM" src="https://github.com/user-attachments/assets/39362980-543b-4d38-bfd9-2a5dcdef6201" />
+<img width="642" height="512" alt="Screenshot 2026-08-04 at 6 21 53 PM" src="https://github.com/user-attachments/assets/7aa7b96e-a41c-41cd-b748-1d85a6800257" />
+<img width="909" height="534" alt="Screenshot 2026-08-04 at 6 22 24 PM" src="https://github.com/user-attachments/assets/44274b46-5b3e-43dc-9086-27cbd8e07b50" />
+<img width="808" height="655" alt="Screenshot 2026-08-04 at 6 29 24 PM" src="https://github.com/user-attachments/assets/03dbcb3d-555e-4d8b-b60e-06a1ced35abc" />
+<img width="782" height="647" alt="Screenshot 2026-08-04 at 6 30 27 PM" src="https://github.com/user-attachments/assets/e9f0f293-2527-4e33-862b-a14aae9f25a2" />
+
+
+
 
 
 For those who want to see full design, here's the like to the Onshape CAD model:
@@ -169,18 +201,18 @@ I made the circuit diagram for my project using tikercad. Due to absence of requ
 - Resistors (220 Ω)
 - WIRES
 - Breadboard
-- Push Button Switch
+- Push Button Switches
 - 18650 Battery Holder
 - 18650 Lithium-Ion Battery
 - TP4056 Charging Module
-- MT3608 Boost Converter
+- MT3608 Boost Converter(or equivalent)
 - I2C OLED Display 0.96 inch
 - DS3231 RTC Module
 - ESP8266 NodeMCU(optional)
 - 1000μF (Polarized)(greater than 5V)
 - Switch (on/off)
 - Battery to DC barrel jack(for arduino)
-- 3D CAD models as stated above.
+- 3D models as stated above.
 
 
 
